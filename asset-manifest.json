@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Vitalina-Yefimova/react-app-example/static/css/main.ce0a3451.css",
+    "main.js": "/Vitalina-Yefimova/react-app-example/static/js/main.5358aaf7.js",
+    "static/js/488.a70fd988.chunk.js": "/Vitalina-Yefimova/react-app-example/static/js/488.a70fd988.chunk.js",
+    "static/media/logo.svg": "/Vitalina-Yefimova/react-app-example/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Vitalina-Yefimova/react-app-example/index.html",
+    "main.ce0a3451.css.map": "/Vitalina-Yefimova/react-app-example/static/css/main.ce0a3451.css.map",
+    "main.5358aaf7.js.map": "/Vitalina-Yefimova/react-app-example/static/js/main.5358aaf7.js.map",
+    "488.a70fd988.chunk.js.map": "/Vitalina-Yefimova/react-app-example/static/js/488.a70fd988.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce0a3451.css",
+    "static/js/main.5358aaf7.js"
+  ]
+}
