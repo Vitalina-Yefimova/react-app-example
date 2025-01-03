@@ -1,6 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-import { Button } from './components/Button';
+import logo from './logo.svg'
+import './App.css'
+import { Button } from './components/Button'
+import { Counter } from './components/Counter'
+import { Text } from './components/Text'
 
 function App() {
   return (
@@ -18,10 +20,12 @@ function App() {
         >
           Learn React
         </a>
-        <Button/>
+        <Button />
+        <Counter />
+        <Text content="This is a stateless component displaying props!" />
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
